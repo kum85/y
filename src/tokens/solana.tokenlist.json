@@ -79415,11 +79415,19 @@
         "whitelist-token",
         "nfts"
       ],
-      "extensions": {
-        "discord": "https://discord.gg/jgTh4tyyAJ",
-        "twitter": "https://twitter.com/noseagenft"
+      "chainId": 101,
+      "address": "aYZPYgohjK6LYM8o1v6pnr3ZinhuRzSHd6TRDVDUBkK",
+      "symbol": "BTL",
+      "name": "BitLegacyToken",
+      "decimals": 8,
+      "logoURI": "https://avatars.githubusercontent.com/u/104065919?s=400&u=b8fc54b504be5da962bf923dea50df156ca76213&v=4",
+      "tags": [
+        "whitelist-token",
+        "nfts"
+      "extensions" {
+        "twitter": "https://twitter.com/bitlegacytoken"
       }
-    }
+    
   ],
   "version": {
     "major": 0,
